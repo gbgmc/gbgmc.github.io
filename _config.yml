@@ -5,6 +5,12 @@ url: "https://gbgmc.github.io"
 
 defaults:
   - scope:
+      path: ""
+    values:
+      image: "https://staticdelivery.nexusmods.com/mods/4269/images/thumbnails/31/31-1652020195-1411404592.jpeg"
+      twitter:
+        username: ItIsOneOfThem
+  - scope:
       path: "license.md"
     values:
       title: "MIT-style license"

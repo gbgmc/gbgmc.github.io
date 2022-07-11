@@ -1,5 +1,6 @@
 ---
 layout: home
+description: "Game modes: Break Out, Break Through, Kill Confirmed (Fully & Semi-Permissive)"
 ---
 
 The _GB Game Mode Collection_ provides various [open-source](/license) game modes for the game "[Ground Branch](https://www.groundbranch.com/)".
