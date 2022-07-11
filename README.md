@@ -20,7 +20,7 @@ bundle exec jekyll server
 
 ## License
 
-MIT-style license. See `LICENSE.txt`.
+MIT-style license. See _license.md_.
 
 Note: The Discord logos used in `main.css` are **not** covered by the MIT-style license.
 See <https://discord.com/branding>.
