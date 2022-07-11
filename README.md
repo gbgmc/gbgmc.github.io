@@ -2,11 +2,14 @@ This repository contains the Markdown sources for the webpage at <https://gbgmc.
 
 ## Local build
 
-Install Ruby and then run `gem install bundler`.
+Install Ruby (Ruby+Devkit 3.x from <https://rubyinstaller.org/downloads/>).
+
+Open a command line and then run `gem install bundler`.
+
 
 In the git working copy run
 ```
-bundler install
+bundle install
 bundle exec jekyll build
 ```
 
@@ -14,3 +17,10 @@ A live preview can be done via
 ```
 bundle exec jekyll server
 ```
+
+## License
+
+MIT-style license. See `LICENSE.txt`.
+
+Note: The Discord logos used in `main.css` are **not** covered by the MIT-style license.
+See <https://discord.com/branding>.
