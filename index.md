@@ -41,5 +41,5 @@ Open the ZIP file, select the content and "Drag and Drop" the content to the Gro
 
 ## Credits
 
-_Break Out_, _Break Through_, and _Kill Confirmed_ were made by [Jakub 'eelSkillz' Baranowski](https://github.com/JakBaranowski).
+_Break Out_, _Break Through_, and _Kill Confirmed_ were made by [Jakub 'eelSkillz' Baranowski](https://github.com/JakBaranowski).\
 _Kill Confirmed (Semi-Permissive)_ was made by [Bob/AT](https://github.com/Bob-AT).
