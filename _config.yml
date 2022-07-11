@@ -1,6 +1,9 @@
-title: GB Game Mode Collection
+title: "GB Game Mode Collection"
 baseurl: "/"
 url: "https://gbgmc.github.io"
+
+twitter:
+  username: "@ItIsOneOfThem"
 
 
 defaults:
@@ -8,8 +11,6 @@ defaults:
       path: ""
     values:
       image: "https://staticdelivery.nexusmods.com/mods/4269/images/thumbnails/31/31-1652020195-1411404592.jpeg"
-      twitter:
-        username: ItIsOneOfThem
   - scope:
       path: "license.md"
     values:
