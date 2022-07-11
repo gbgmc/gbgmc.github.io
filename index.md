@@ -20,7 +20,7 @@ Bug reports can be also filled via the GitHub [issue tracker](https://github.com
 
 # Installation
 
-_TLDR:_ [Download](https://www.nexusmods.com/groundbranch/mods/31) "collection-vN.N.N.zip" file and extract it contents directly into the Ground Branch installation folder.
+<em title="too long; didn't read">TL;DR</em>: [Download](https://www.nexusmods.com/groundbranch/mods/31) "collection-vN.N.N.zip" file and extract it contents directly into the Ground Branch installation folder.
 
 ## Detailed steps
 
