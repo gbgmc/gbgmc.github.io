@@ -2,7 +2,7 @@
 layout: home
 ---
 
-The _GB Game Mode Collection_ provides various _open-source_ game modes for the game "[Ground Branch](https://www.groundbranch.com/)".
+The _GB Game Mode Collection_ provides various [open-source](/license) game modes for the game "[Ground Branch](https://www.groundbranch.com/)".
 
 The following game modes are provided:
 
