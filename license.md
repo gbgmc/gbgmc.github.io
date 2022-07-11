@@ -1,7 +1,3 @@
----
-title: MIT-style License
----
-
 Copyright © 2022 "Bob/AT" <https://github.com/Bob-AT>\
 Copyright © 2021 Jakub Baranowski <https://github.com/JakBaranowski>
 

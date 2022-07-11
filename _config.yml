@@ -2,6 +2,13 @@ title: GB Game Mode Collection
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+
+defaults:
+  - scope:
+      path: "license.md"
+    values:
+      title: "MIT-style license"
+
 include:
   - license.md
 
