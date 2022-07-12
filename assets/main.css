@@ -23,6 +23,8 @@ a:hover {
     text-decoration: underline;
 }
 
+dt { margin-left: 1em; }
+
 div.wrap {
     margin-left: 1em;
     margin-right: 1em;
