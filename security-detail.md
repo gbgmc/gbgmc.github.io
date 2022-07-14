@@ -38,7 +38,7 @@ The final Opposing Force count takes player count and this setting into account.
   * "Mandatory": This is the default setting.  If no player has selected the "_VIP_ (0/1)" insertion point, a player
     will be automatically selected as the _VIP_. Players that have not selected an insertion point have precedence over players
     that have selected an insertion point.
-  * "Optional": Disables automatic selection of the VIP. The round can be successfully completed without him. Intended for _improvised_ game modes.
+  * "Optional": Disables automatic selection of the VIP. The round can be successfully completed without him/her. Intended for _improvised_ game modes.
   
 ## Admin console commands
 
