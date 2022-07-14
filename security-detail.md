@@ -44,7 +44,8 @@ The final Opposing Force count takes player count and this setting into account.
   
 ## Admin console commands
 
-Open the console via <kbd>NumPad*</kbd> or <kbd>F7</kbd> and type:
+Open the console via <kbd>F7</kbd> or <kbd>*</kbd> (Num Pad). On US keyboards you can also use <kbd>~</kbd>.\
+Type:
 
 <dl>
 <dt><code>admin reloadmissionscript loc=<em>number</em></code></dt>
@@ -61,8 +62,7 @@ Open the console via <kbd>NumPad*</kbd> or <kbd>F7</kbd> and type:
 <dd>Pick a new random exfil point.</dd>
 </dl>
 
-**Note:** In single player mode type "`debuggamecommand`" instead of "`admin`".\
-On US keyboards you can also use the tilde key <kbd>~</kbd> to open the console.
+**Note:** In single player mode type "`debuggamecommand`" instead of "`admin`".
 
 ## Additional notes
 
