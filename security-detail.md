@@ -2,8 +2,6 @@
 title: Security Detail
 ---
 
-<em><strong>NOTE: This game mode is not released yet!</strong></em>
-
 In _Security Detail_ you need to protect the _principal_/_VIP_.
 
 **Type:** Solo, Coop, PvE.\

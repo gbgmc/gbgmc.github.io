@@ -7,10 +7,12 @@ The _GB Game Mode Collection_ provides various [open-source](/license) game mode
 
 The following game modes are provided:
 
-- [Break Out](./break-out): escape from a _dangerous_ situation 
+- [Asset Extraction](./asset-extraction): extract an _Asset_ (undercover agent).
+- [Break Out](./break-out): escape from a _dangerous_ situation.
 - [Break Through](./break-through): traversing through terrain that is controlled by _hostiles_.
 - [Kill Confirmed](./kill-confirmed): locate, neutralize and confirm elimination of all _HVTs_ (High Value Targets) in the AO. 
 - [Kill Confirmed (Semi-Permissive)](./kill-confirmed-sp): locate, neutralize and confirm elimination of all _HVTs_ in the AO. Avoid collateral damage.
+- [Security Detail](./security-detail): protect the _principal_ (VIP).
 
 # Discord
 

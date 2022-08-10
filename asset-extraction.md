@@ -2,8 +2,6 @@
 title: Asset Extraction
 ---
 
-<em><strong>NOTE: This game mode is not released yet!</strong></em>
-
 In _Asset Extraction_ you need to extract an _Asset_ (undercover agent).
 
 **Type:** Solo, Coop, PvE.\
