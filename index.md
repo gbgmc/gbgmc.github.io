@@ -27,7 +27,7 @@ Bug reports can be also filled via the GitHub [issue tracker](https://github.com
 
 ## Detailed steps
 
-1. Download the latest "collection-vN.N.N.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the mirror listed at the top of the "DESCRIPTION" tab.
+1. Download the latest "collection-vN.N.N.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the [mirror](https://www.mediafire.com/file/myezhjaq5o88pjs/collection-v0.2.zip/file).
 2. Open your Steam library to open your Ground Branch installation folder in Windows Explorer.
 3. Open "collection-vN.N.N.zip" and "drag and drop" the content to the "Ground Branch" installation folder.
 
@@ -42,7 +42,7 @@ This will open the Ground Branch installation folder.
 **Figure 2:** How to extract the ZIP file.\
 Open the ZIP file, select the content and "Drag and Drop" the content to the Ground Branch installation folder.
 
-## Credits
+## Notes
 
 _Break Out_, _Break Through_, and _Kill Confirmed_ were made by [Jakub 'eelSkillz' Baranowski](https://github.com/JakBaranowski).\
-_Kill Confirmed (Semi-Permissive)_ was made by [Bob/AT](https://github.com/Bob-AT).
+_Asset Extraction, _Kill Confirmed (Semi-Permissive)_, and _Security Detail_ were made by [Bob/AT](https://github.com/Bob-AT).
