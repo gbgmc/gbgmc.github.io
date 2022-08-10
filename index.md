@@ -45,4 +45,4 @@ Open the ZIP file, select the content and "Drag and Drop" the content to the Gro
 ## Notes
 
 _Break Out_, _Break Through_, and _Kill Confirmed_ were made by [Jakub 'eelSkillz' Baranowski](https://github.com/JakBaranowski).\
-_Asset Extraction, _Kill Confirmed (Semi-Permissive)_, and _Security Detail_ were made by [Bob/AT](https://github.com/Bob-AT).
+_Asset Extraction_, _Kill Confirmed (Semi-Permissive)_, and _Security Detail_ were made by [Bob/AT](https://github.com/Bob-AT).
