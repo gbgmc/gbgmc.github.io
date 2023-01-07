@@ -19,7 +19,7 @@ The following game modes are provided:
 For questions, suggestion, and bug reports please use our [Discord](https://discord.com/invite/MaeMSrYDJa).
 
 If you do not have a Discord account please post your messages in the NexusMods [POSTS tab](https://www.nexusmods.com/groundbranch/mods/31?tab=posts).
-Bug reports can be also filled via the GitHub [issue tracker](https://github.com/JakBaranowski/ground-branch-game-modes/issues).
+Bug reports can be also filled via the GitHub [issue tracker](https://github.com/Bob-AT/ground-branch-game-modes/issues).
 
 # Installation
 
