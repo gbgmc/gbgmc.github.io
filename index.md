@@ -1,11 +1,11 @@
 ---
 layout: home
-description: "Game modes: Break Out, Break Through, Kill Confirmed (Fully & Semi-Permissive)"
+description: "Game modes: Asset Extraction, Break Out, Break Through, Kill Confirmed (Fully & Semi-Permissive), Security Detail"
 ---
 
 The _GB Game Mode Collection_ provides various [open-source](/license) game modes for the game "[Ground Branch](https://www.groundbranch.com/)".
 
-The following game modes are provided:
+The following <abbr title="Player versus environment">PvE</abbr> game modes are provided:
 
 - [Asset Extraction](./asset-extraction): extract an _Asset_ (undercover agent).
 - [Break Out](./break-out): escape from a _dangerous_ situation.
@@ -19,15 +19,15 @@ The following game modes are provided:
 For questions, suggestion, and bug reports please use our [Discord](https://discord.com/invite/MaeMSrYDJa).
 
 If you do not have a Discord account please post your messages in the NexusMods [POSTS tab](https://www.nexusmods.com/groundbranch/mods/31?tab=posts).
-Bug reports can be also filled via the GitHub [issue tracker](https://github.com/Bob-AT/ground-branch-game-modes/issues).
+Bug reports can be also filled via the GitHub [issue tracker](https://github.com/gbgmc/ground-branch-game-modes/issues).
 
 # Installation
 
-<em title="too long; didn't read">TL;DR</em>: [Download](https://www.nexusmods.com/groundbranch/mods/31) "GBGMC.zip" file and extract it contents directly into the Ground Branch installation folder.
+<em title="too long; didn't read">TL;DR</em>: [Download](https://www.nexusmods.com/groundbranch/mods/31) the ZIP file and extract it contents directly into the Ground Branch installation folder.
 
 ## Detailed steps
 
-1. Download the latest "collection-vN.N.N.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the [mirror](https://www.mediafire.com/file/myezhjaq5o88pjs/collection-v0.2.zip/file).
+1. Download the latest "collection-vN.N.N.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the [mirror](https://www.mediafire.com/folder/x0w3w62kgtw9h/GBGMC).
 2. Open your Steam library to open your Ground Branch installation folder in Windows Explorer.
 3. Open "collection-vN.N.N.zip" and "drag and drop" the content to the "Ground Branch" installation folder.
 
