@@ -154,5 +154,28 @@ ul ul li::marker {
     color: #ff2a2a;
 }
 
+table.mission {
+	margin-top: 2em;
+	border-collapse: collapse;
+}
+
+table.mission th {
+	writing-mode: vertical-lr;
+	text-align: left;
+}
+
+table.mission tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table.mission td, table.mission th {
+   border-right: 2px solid black;
+}
+table.mission td { text-align: center; }
+table.mission td.y { color: green; }
+table.mission td.y::before { content: '✔'; }
+table.mission td.map { font-weight: bold; padding-right: 1em; color: black; text-align: left; }
+table.mission td.var { padding-right: 1em; text-align: right; }
+
 
 

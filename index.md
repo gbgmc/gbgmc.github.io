@@ -21,15 +21,39 @@ For questions, suggestion, and bug reports please use our [Discord](https://disc
 If you do not have a Discord account please post your messages in the NexusMods [POSTS tab](https://www.nexusmods.com/groundbranch/mods/31?tab=posts).
 Bug reports can be also filled via the GitHub [issue tracker](https://github.com/gbgmc/ground-branch-game-modes/issues).
 
+# Missions
+
+<table class="mission">
+<tr><th>                                  </th><th class=" ">Asset Extraction</th><th class=" ">Break Out</th><th class=" ">Break Through</th><th class=" ">Kill Confirmed</th><th  class=" ">Kill Confirmed Semi.</th><th  class=" ">Security Detail</th></tr>
+<tr><td class="map">747                   </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Arena                 </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">City                  </td><td class=" ">                </td><td class="y">         </td><td class="y">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Compound              </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="var">— [Compound]          </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Creek                 </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Depot                 </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="var">— [Compound]          </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Docks                 </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Power Station         </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Rig                   </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="var">— [Decks 1&amp;2]     </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="var">— [Decks 3&amp;4]     </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Run Down              </td><td class=" ">                </td><td class="y">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Small Town            </td><td class="y">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class="y">                    </td><td  class="y">              </td></tr>
+<tr><td class="map">Storage Facility      </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">               </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="var">— [Underground]       </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class=" ">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">Tanker                </td><td class=" ">                </td><td class="y">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+</table>
+
 # Installation
 
 <em title="too long; didn't read">TL;DR</em>: [Download](https://www.nexusmods.com/groundbranch/mods/31) the ZIP file and extract it contents directly into the Ground Branch installation folder.
 
 ## Detailed steps
 
-1. Download the latest "collection-vN.N.N.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the [mirror](https://www.mediafire.com/folder/x0w3w62kgtw9h/GBGMC).
+1. Download the latest "GBGMC-v1033.X.Y.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the [mirror](https://www.mediafire.com/folder/x0w3w62kgtw9h/GBGMC).
 2. Open your Steam library to open your Ground Branch installation folder in Windows Explorer.
-3. Open "collection-vN.N.N.zip" and "drag and drop" the content to the "Ground Branch" installation folder.
+3. Open "GBGMC-v1033.X.Y.zip" and "drag and drop" the content to the "Ground Branch" installation folder.
 
 [![Figure 1](/assets/fig1small.jpg)](/assets/fig1.png)
 
