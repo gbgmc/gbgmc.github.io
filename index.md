@@ -25,7 +25,7 @@ Bug reports can be also filled via the GitHub [issue tracker](https://github.com
 
 <table class="mission">
 <tr><th>                                  </th><th class=" ">Asset Extraction</th><th class=" ">Break Out</th><th class=" ">Break Through</th><th class=" ">Kill Confirmed</th><th  class=" ">Kill Confirmed Semi.</th><th  class=" ">Security Detail</th></tr>
-<tr><td class="map">747                   </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
+<tr><td class="map">747                   </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class="y">                    </td><td  class=" ">               </td></tr>
 <tr><td class="map">Arena                 </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
 <tr><td class="map">City                  </td><td class=" ">                </td><td class="y">         </td><td class="y">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
 <tr><td class="map">Compound              </td><td class=" ">                </td><td class=" ">         </td><td class=" ">             </td><td class="y">              </td><td  class=" ">                    </td><td  class=" ">               </td></tr>
