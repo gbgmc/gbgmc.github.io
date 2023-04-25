@@ -51,7 +51,7 @@ Bug reports can be also filled via the GitHub [issue tracker](https://github.com
 
 ## Detailed steps
 
-1. Download the latest "GBGMC-v1033.X.Y.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the [mirror](https://www.mediafire.com/folder/x0w3w62kgtw9h/GBGMC).
+1. Download the latest "GBGMC-v1033.X.Y.zip" from [NexusMods](https://www.nexusmods.com/groundbranch/mods/31). Either from the "FILES" tab or from the [mirror](https://github.com/gbgmc/ground-branch-game-modes/releases).
 2. Open your Steam library to open your Ground Branch installation folder in Windows Explorer.
 3. Open "GBGMC-v1033.X.Y.zip" and "drag and drop" the content to the "Ground Branch" installation folder.
 
